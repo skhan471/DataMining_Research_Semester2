@@ -1,2 +1,3 @@
-# DataMining_Research_Semester2
-Collection of research papers and references for Data Mining applied research (SME decision support)
+Domain: Data Mining
+Type: Applied Research / Framework Development
+Idea: Develop a data-driven framework to analyze SME business transaction data and provide actionable insights, such as identifying risky clients, optimizing cash flow, and predicting seasonal trends.
